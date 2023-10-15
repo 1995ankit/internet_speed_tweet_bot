@@ -1,2 +1,2 @@
-# internet_speed_tweet_bot
-'''Twitter complaint bot'''
+# Low Internet Speed tweet bot
+## This code checks your speed through the website - 'www.speedtest.net', then posts the speed on our Twitter handle through automatic login through Selenium. 
