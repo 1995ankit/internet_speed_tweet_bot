@@ -3,6 +3,7 @@
 
 The process uses the following tools/concepts:
 * Speedtest.net website
+* Twitter website
 * Selenium
 * OOPs
 * Environment variables
